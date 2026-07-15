@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkhome_runner_work_temp_platform_docs_site=globalThis.webpackChunkhome_runner_work_temp_platform_docs_site||[]).push([[235],{8552(e){e.exports=JSON.parse('{"name":"docusaurus-plugin-content-pages","id":"default"}')}}]);
